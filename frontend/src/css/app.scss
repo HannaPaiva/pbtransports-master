@@ -1,0 +1,11 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap');
+.header-pdf {
+  line-height: 0.3px;
+}
+.bold-pdf{
+  font-weight: bold;
+}
+body{
+  font-family: Jost, sans-serif;
+}
